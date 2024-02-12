@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/VeilleNFT/static/css/main.1763a010.css",
+    "main.js": "/VeilleNFT/static/js/main.35c154a6.js",
+    "static/js/592.599f76a2.chunk.js": "/VeilleNFT/static/js/592.599f76a2.chunk.js",
+    "index.html": "/VeilleNFT/index.html",
+    "main.1763a010.css.map": "/VeilleNFT/static/css/main.1763a010.css.map",
+    "main.35c154a6.js.map": "/VeilleNFT/static/js/main.35c154a6.js.map",
+    "592.599f76a2.chunk.js.map": "/VeilleNFT/static/js/592.599f76a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1763a010.css",
+    "static/js/main.35c154a6.js"
+  ]
+}
